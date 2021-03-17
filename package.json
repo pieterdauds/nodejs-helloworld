@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bugbiteme/nodejs-hello-world.git"
+    "url": "https://github.com/pieterdauds/nodejs-helloworld.git"
   },
-  "author": "Leon Levy <leon.s.levy@gmail.com>",
+  "author": "Lorem Ipsum <lorem.ipsum@gmail.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/bugbiteme/nodejs-hello-world/issues"
+    "url": "https://github.com/pieterdauds/nodejs-helloworld/issues"
   },
-  "homepage": "http://github.com/bugbiteme/nodejs-hello-world"
+  "homepage": "https://github.com/pieterdauds/nodejs-helloworld"
 }
